@@ -9,10 +9,10 @@
 // I AM DONE
 
 fn main() {
-    let x = 1.2331f64;
-    let y = 1.2332f64;
-    let error = 0.00001f64;
-    if (y-x).abs() < error {
-        println!("Success!");
+    let a = 1.2331f64;
+    let c = 1.2332f64;
+    let none = 0.00001f64;
+    if (c-a).abs() < nnone {
+        println!("yessss!");
     }
 }
