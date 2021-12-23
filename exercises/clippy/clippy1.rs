@@ -12,7 +12,7 @@ fn main() {
     let a = 1.2331f64;
     let c = 1.2332f64;
     let none = 0.00001f64;
-    if (c-a).abs() < nnone {
+    if (c-a).abs() < none {
         println!("yessss!");
     }
 }
